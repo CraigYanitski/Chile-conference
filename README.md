@@ -1,11 +1,13 @@
 # Zermatt-Chile conference materials
 
-This repository contains some additional material for my poster in the 2022 Zermatt-Chile conference.
-Here you can find additional information regarding the
+This repository contains some additional material for my poster in the 2022
+Zermatt-Chile conference.
+A copy of the code can be pulled from [GitHub](https://github.com/CraigYanitski/kosmatau3d).
+Here you can find additional information regarding the following topics
 
- - HI and H2 mass distributions
- - HI and H2 scale heights
- - Far-UV radiation field
- - Clump surface density distribution
- - Milky Way rotational velocity profile
+- HI and H2 mass distributions
+- HI and H2 scale heights
+- Far-UV radiation field
+- Clump surface density distribution
+- Milky Way rotational velocity profile
 
