@@ -20,6 +20,10 @@ For more information on the KOSMA-tau PDR model, see the poster by Aleena Baby.
 
 ![](profiles/volume-density_dist.png)
 
+- clump surface hydrogen density
+
+![](profiles/clump-density_dist.png)
+
 - Far-UV radiation field
 
 ![](profiles/fuv_dist.png)
