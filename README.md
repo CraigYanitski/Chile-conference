@@ -11,7 +11,7 @@ or her [website](https://aleenababy.github.io/projects.html).
 
 - HI and H2 scale heights
 
-![](profiles/fuv_dist.png)
+![](profiles/scale-height_dist.png)
 
 - HI and H2 surface mass density distribution
 
