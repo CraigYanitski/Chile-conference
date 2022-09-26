@@ -4,7 +4,8 @@ This repository contains some additional material for my poster in the 2022
 Zermatt-Chile conference.
 A copy of the code can be pulled from [GitHub](https://github.com/CraigYanitski/kosmatau3d).
 Here you can find additional information regarding the distributions used in my research.
-For more information on the KOSMA-tau PDR model, see the poster by Aleena Baby.
+For more information on the KOSMA-tau PDR model, see the poster by Aleena Baby
+or her [website](https://aleenababy.github.io/projects.html).
 
 ## Profiles
 
