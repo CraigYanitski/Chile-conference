@@ -9,23 +9,23 @@ or her [website](https://aleenababy.github.io/projects.html).
 
 ## Profiles
 
-- HI and H2 scale heights
+- HI and H2 scale heights (Bacchini et al. 2019)
 
 ![](profiles/scale-height_dist.png)
 
-- HI and H2 surface mass density distribution
+- HI and H2 surface mass density distribution (Bacchini et al. 2019 and Marasco et al. 2017)
 
 ![](profiles/surface-density_dist.png)
 
-- HI and H2 volume mass density distributions
+- HI and H2 volume mass density distributions (calculated)
 
 ![](profiles/volume-density_dist.png)
 
-- clump surface hydrogen density
+- clump surface hydrogen density (Wolfire et al. 2003)
 
 ![](profiles/clump-density_dist.png)
 
-- Far-UV radiation field
+- Far-UV radiation field (Popescu et al. 2011)
 
 ![](profiles/fuv_dist.png)
 
